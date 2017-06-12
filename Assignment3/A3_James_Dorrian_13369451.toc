@@ -1,0 +1,3 @@
+\contentsline {section}{\numberline {1}{\bf Third Assignment:} Non-side-informed Methods}{1}
+\contentsline {subsection}{\numberline {1.1}DSSS with known spreading sequence}{1}
+\contentsline {subsection}{\numberline {1.2}DSSS with unknown spreading sequence}{2}

@@ -1,0 +1,3 @@
+\contentsline {section}{\numberline {1}{\bf Second Assignment:} Neyman-Pearson Detection}{1}
+\contentsline {subsection}{\numberline {1.1}Monte Carlo Simulation}{1}
+\contentsline {subsection}{\numberline {1.2}Laplacian Distribution}{3}
